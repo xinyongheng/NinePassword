@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NineViewGroup">
+        <attr name="nine_error_line_color" format="color" />
+        <attr name="nine_child_size" format="dimension" />
+        <attr name="nine_padding_v" format="dimension" />
+        <attr name="nine_padding_h" format="dimension" />
+        <attr name="nine_line_color" format="color" />
+        <attr name="nine_effective_size" format="integer" />
+        <attr name="nine_show_line" format="boolean" />
+        <attr name="nine_line_width" format="dimension" />
+
+    </declare-styleable>
+</resources>
